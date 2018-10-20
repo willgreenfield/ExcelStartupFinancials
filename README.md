@@ -1,7 +1,7 @@
 # ExcelStartupFinancials
 
 
-An excel spreadsheet that takes input prices, expenses, and other consumer data to create a visual financial stream timeline to help determine the profitability of a startup. I created this spread to calculate important financials while building my first startup, VRTX, a small VR-arcade.
+An excel spreadsheet that takes input prices, expenses, and other consumer data to create a visual financial stream timeline to help determine the profitability of a startup. I created this spread to calculate important financials while building my first startup, VRTX, a small VR-arcade. Feel free to copy, edit, and use this spread however you want.
 
 Inputs:
 
